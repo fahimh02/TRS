@@ -1,0 +1,42 @@
+@media (max-width: 960px) {
+    .rightlogin {
+      display: none;
+      opacity: 0;
+    }
+    .formlogin {
+      width: 100% !important;
+    }
+  }
+  
+  @media (max-width: 1500px) {
+    .or {
+      margin-bottom: 10px !important;
+    }
+    .buttonsubmitsesion {
+      margin-bottom: 10px !important;
+      height: 35px !important ;
+    }
+  
+    .continuegoogle {
+      margin-bottom: 10px !important;
+      height: 35px !important ;
+      padding: 0 !important;
+    }
+  
+    .subtitlesession {
+      display: none;
+    }
+    .sessiontitle {
+      margin-bottom: 0 !important;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .formlogin {
+      padding: 0 25px;
+    }
+    .text-danger {
+      font-size: 9px !important;
+    }
+  }
+  

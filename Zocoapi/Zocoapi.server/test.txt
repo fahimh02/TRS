@@ -1,0 +1,20 @@
+var user = GetCurrentUser();
+if (user != null)
+{
+    styleInfo.AuthorId = user.Id;// DateTime.Now;
+    styleInfo.EditorId = user.Id;// DateTime.Now;
+}
+else
+{
+    styleInfo.AuthorId =1;// DateTime.Now;
+    styleInfo.EditorId =1;// DateTime.Now;
+}
+
+
+put
+var user = GetCurrentUser();
+if (user != null)
+{
+  
+    styleInfo.EditorId = user.Id;// DateTime.Now;
+}

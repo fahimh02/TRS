@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tbSCvopqWiL2T1YqMTu22gfqPUzbOcpTqhhl5K/yNYA=",
+  "Source": "Zocoapi.server",
+  "BasePath": "_content/Zocoapi.server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

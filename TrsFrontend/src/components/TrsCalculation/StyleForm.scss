@@ -1,0 +1,51 @@
+// .sidebar {
+    
+//   }
+
+//   .magnifier-container {
+//     position: relative;
+//     display: inline-block;
+//   }
+
+
+  
+  /* Adjust preview image size */
+.preview-image {
+  display: block;
+  width: 300px; /* Decrease the width of the preview image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Adjust magnifier lens size */
+.magnifier-lens {
+  position: absolute;
+  border: 3px solid #333;
+  border-radius: 50%;
+  cursor: none;
+  width: 50px; /* Decrease the size of the magnifier lens */
+  height: 50px; /* Decrease the size of the magnifier lens */
+  pointer-events: none;
+  display: none;
+  background-repeat: no-repeat;
+  background-size: 200% 200%; /* Adjust if needed for different zoom levels */
+}
+.modal-button {
+  padding: 10px 15px; /* Padding around the text */
+  margin: 5px; /* Space between buttons */
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Rounded corners */
+  background-color: #007BFF; /* Bootstrap primary color */
+  color: white; /* Text color */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+}
+
+.modal-button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.modal-button:focus {
+  outline: none; /* Remove outline on focus */
+}
+

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Zocoapi.server",
+    "\\Zocoapi.server\\Controllers",
+    "\\Zocoapi.server\\Models"
+  ],
+  "SelectedNode": "\\Zocoapi.server\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}

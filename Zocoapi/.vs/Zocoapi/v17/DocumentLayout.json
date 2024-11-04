@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\models\\articleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\models\\articleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\controllers\\trscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\controllers\\trscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\zocoapi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\zocoapi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|c:\\users\\installation\\desktop\\trs_version\\.net_core-with-react\\zocoapi\\zocoapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA287D8-CD28-4890-928F-4903F172B5A2}|Zocoapi.server\\Zocoapi.server.csproj|solutionrelative:zocoapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleInfo.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Models\\ArticleInfo.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Models\\ArticleInfo.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Models\\ArticleInfo.cs",
+              "RelativeToolTip": "Zocoapi.server\\Models\\ArticleInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:27:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Zocoapi.server\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAOUCAAAAAAAAAAAQwO8CAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:03:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Zocoapi.server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:03:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Zocoapi.server\\Controllers\\FileUploadController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:28:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Zocoapi.server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:48:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TRSController.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\TRSController.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Controllers\\TRSController.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Controllers\\TRSController.cs",
+              "RelativeToolTip": "Zocoapi.server\\Controllers\\TRSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:50:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zocoapi.server.csproj",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Zocoapi.server.csproj",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Zocoapi.server.csproj",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Zocoapi.server.csproj",
+              "RelativeToolTip": "Zocoapi.server\\Zocoapi.server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T17:33:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Program.cs",
+              "RelativeDocumentMoniker": "Zocoapi.server\\Program.cs",
+              "ToolTip": "C:\\Users\\installation\\Desktop\\trs_version\\.NET_Core-with-react\\Zocoapi\\Zocoapi.server\\Program.cs",
+              "RelativeToolTip": "Zocoapi.server\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:14:29.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
